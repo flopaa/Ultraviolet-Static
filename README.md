@@ -1,4 +1,4 @@
-# ultraviolet-scripts
+# ultraviolet-script
 Core Ultraviolet scripts
 
 # Configuration
